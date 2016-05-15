@@ -7,7 +7,7 @@ This is the Meteor server-side application accompanying [this Ionic app.](https:
 </a>
 ## Running the app
 
-Before you run `meteor` from the root folder, uncomment the fake data in [fixtures.js](/server/lib/fixtures.js)  to use a Mongo as the database. Also, it has no client-side code and only exposes a few REST API.
+Before you run `meteor` from the root folder, uncomment the fake data in [fixtures.js](/server/lib/fixtures.js)  to use Mongo instead of Oracle as the database. Also, it has no client-side code and only exposes a few REST API.
 
 ## Official Documentation
 
